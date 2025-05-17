@@ -10,3 +10,9 @@ React Query for efficient data fetching and caching
 Supabase for backend services (authentication, database, and storage)
 Styled Components for modern, scoped styling
 Redux for centralized state management
+
+
+
+## you can enter by log with this information: 
+### email: example@gmail.com
+### password: Anas@123
